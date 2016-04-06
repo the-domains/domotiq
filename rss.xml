@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DOMOTIQ]]></title>
-        <description><![CDATA[DOMOTIQ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[DOMOTIQ pour votre confort]]></title>
+        <description><![CDATA[DOMOTIQ pour votre confort]]></description>
+        <link>https://thegrid.ai/domotiq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 16:58:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 17:06:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/domotiq/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>L'idée est très simple. Un système tout simplement génial.</p>]]></description>
+            <link>https://thegrid.ai/domotiq/34df99c4-931d-4352-9e88-2c98c97217ab/index.html</link>
+            <guid isPermaLink="false">34df99c4-931d-4352-9e88-2c98c97217ab</guid>
+            <pubDate>Wed, 06 Apr 2016 17:06:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Rentrer chez soi et se sentir immédiatement à la maison. Parce que votre maison attend déjà votre arrivée. Avec une ambiance d'éclairage, des pièces à température agréable et en musique de fond, votre chanson préférée sur votre chaîne stéréo. Un luxe que vous pouvez désormais vivre tous les jours.</p>]]></description>
-            <link>undefined0b730675-cc11-41c4-8b71-fc7adc7ba8fc/index.html</link>
+            <link>https://thegrid.ai/domotiq/0b730675-cc11-41c4-8b71-fc7adc7ba8fc/index.html</link>
             <guid isPermaLink="false">0b730675-cc11-41c4-8b71-fc7adc7ba8fc</guid>
             <pubDate>Wed, 06 Apr 2016 16:58:14 GMT</pubDate>
         </item>
